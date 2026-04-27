@@ -1,7 +1,6 @@
 # 🌐 Futuristic Personal Portfolio
 
-A high-performance, visually stunning personal portfolio built with a **Cyberpunk/Sci-Fi aesthetic**. This project showcases my skills in **Data Analytics** and **Cybersecurity** using interactive 3D elements.
-
+Interactive Data Analytics Portfolio built with Three.js. Showcasing end-to-end data projects, SQL database management, and Python-driven insights with a futuristic UI.
 ## 🚀 Live Demo
 Check out the live site here: [https://vikasmaurya8307.github.io/Portfolio/](https://vikasmaurya8307.github.io/Portfolio/)
 
